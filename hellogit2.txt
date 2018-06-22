@@ -11,3 +11,5 @@ new line in branch head
 
 new line in dev
 
+a partner changes dev
+
