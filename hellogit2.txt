@@ -6,4 +6,6 @@ hello git 10
 
 a new branch dev
 
-new line in branch
+
+new line in branch head
+
