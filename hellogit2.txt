@@ -9,3 +9,5 @@ a new branch dev
 
 new line in branch head
 
+new line in dev
+
